@@ -1,3 +1,0 @@
-﻿  Gra.cpp
-C:\Users\kubaj\source\repos\Lab5statki\Gra.cpp(16,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Lab5statki.vcxproj -> C:\Users\kubaj\source\repos\Lab5statki\x64\Debug\Lab5statki.exe
